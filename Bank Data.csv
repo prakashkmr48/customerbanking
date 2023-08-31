@@ -1,0 +1,11 @@
+CustomerID,Gender,Age,Tenure,Balance,NumOfProducts,HasCreditCard,IsActiveMember,EstimatedSalary,Churn
+1,Male,32,5,50000,2,1,1,75000,No
+2,Female,45,10,60000,3,1,0,85000,No
+3,Male,28,3,10000,1,1,1,40000,Yes
+4,Male,50,7,30000,2,0,0,30000,No
+5,Female,35,2,80000,1,1,1,55000,Yes
+6,Female,38,8,70000,3,1,0,95000,No
+7,Male,25,1,20000,2,1,1,40000,Yes
+8,Female,41,5,40000,1,1,1,60000,No
+9,Male,30,9,45000,2,1,0,75000,No
+10,Male,26,3,15000,1,1,0,40000,Yes
